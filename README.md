@@ -14,3 +14,5 @@ String path = "(your filepath here)/Market data_2025/"
 Enter a ticker and start/end dates in `YYYY-MM-DD` format. Enter `0` at the ticker prompt to exit.
 
 **Supported tickers:** AAPL, AMZN, AVGO, BRK, GOOGL, LLY, META, MSFT, NVDA, TSLA.
+
+<img width="1346" height="757" alt="Screenshot 2026-10-14 at 8 09 16 AM" src="https://github.com/user-attachments/assets/8707c182-1779-45fd-8276-096aed49221d" />
