@@ -1,5 +1,7 @@
 # Mini Market Terminal
 
+Cassius Grimes, Pipelore Rewaju
+
 A Java console app that analyzes 2025 stocks from CSV files. Choose a ticker and date range to view historical prices, closing-price statistics, percentage change, average volume, and the best/worst trading days.
 
 ## Run
