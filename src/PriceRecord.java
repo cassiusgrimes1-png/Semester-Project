@@ -1,6 +1,3 @@
-
-
-
 public class PriceRecord {
 
     private String date;
