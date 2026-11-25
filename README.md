@@ -19,8 +19,6 @@ Choose a feature from the menu. Enter dates in `YYYY-MM-DD` format and use 2025 
 
 **Supported tickers:** AAPL, AMZN, AVGO, BRK, GOOGL, LLY, META, MSFT, NVDA, TSLA.
 
-##UML Class Diagram
-
 ## UML Class Diagram
 
 ```mermaid
